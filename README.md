@@ -7,4 +7,4 @@ Detectron2 is a ground-up rewrite of Detectron that started with maskrcnn-benchm
 * You can get data which I used to train the detectron2: https://www.kaggle.com/andrewmvd/face-mask-detection
 
 ## Output of model
-[Detectron2 output](https://github.com/Mustisid13/Detectron2-Mask-Detection/blob/main/detectron2.png)
+![Detectron2 output](https://github.com/Mustisid13/Detectron2-Mask-Detection/blob/main/detectron2.png)
